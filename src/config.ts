@@ -17,7 +17,7 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  site: "https://yeying-xingchen.github.io", // your site url
+  site: "https://yeying-xingchen.github.io/blog", // your site url
   title: "夜影星辰的博客",
   slogan: "倘能生存，我当然仍要学习。",
   description: "在技术中不失自我，记录，分享，学习。",
