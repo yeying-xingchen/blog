@@ -25,7 +25,7 @@ jobs:
         with:
           # path: . # 存储库中 Astro 项目的根位置。（可选）
           node-version: 25
-          package-manager: yarn
+          package-manager: yarn@4.12.0
           # build-cmd: pnpm run build # 用于构建你的网站的命令。默认运行软件包的构建脚本或任务。（可选）
         # env:
           # PUBLIC_POKEAPI: 'https://pokeapi.co/api/v2' # 对变量值使用单引号。（可选）
